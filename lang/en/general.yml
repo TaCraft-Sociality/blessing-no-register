@@ -1,0 +1,4 @@
+title: Third-party sign-in only
+description: Closes the email registration form and keeps third-party sign-in.
+notice: Email registration is closed. Please sign in with one of the third-party accounts below, or use your existing email and password.
+register-disabled: Email registration is closed. Please sign in with a third-party account.

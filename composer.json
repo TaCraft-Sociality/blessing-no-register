@@ -1,0 +1,11 @@
+{
+  "name": "tacraft/blessing-no-register",
+  "description": "Disable email registration for Blessing Skin",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Tacraft\\TcsNoRegister\\": "src/"
+    }
+  }
+}
